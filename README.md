@@ -14,5 +14,5 @@ Mini Project of Mandiri Recruitment to show movie list.
 
 *App Details*
 <br/>
-<img src="https://github.com/affandymurad/Stockbit/blob/main/Documents/preview.gif" width="250" height="400">
+<img src="https://github.com/affandymurad/MandiriIos/blob/main/preview.gif" width="250" height="400">
 <br/>
